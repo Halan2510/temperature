@@ -1,5 +1,5 @@
 {
-    "name": "Max-min thermometer",
+    "name": "temperatura",
     "description": "",
     "dependencies": {
         "core": "*",
